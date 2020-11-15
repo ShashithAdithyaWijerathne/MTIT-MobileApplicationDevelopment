@@ -1,8 +1,14 @@
 # MTIT-MobileApplicationDevelopment
-Joke Mobile Application Using API
+### Joke Mobile Application Using API
 
+![WhatsApp Image 2020-11-14 at 23 28 09](https://user-images.githubusercontent.com/48553417/99179788-cdddef00-2746-11eb-81dc-0f8dfa2ec671.jpeg)
 
-#Author Account
+#### When you open the application you can see the above screenshot. And after 3s it will auto redirect to the login page. Because I will hope to use AdMob in the welcome page.
+
+![WhatsApp Image 2020-11-14 at 23 29 12](https://user-images.githubusercontent.com/48553417/99179785-ca4a6800-2746-11eb-82a5-2f3293e1eb4a.jpeg)
+![WhatsApp Image 2020-11-14 at 23 27 57](https://user-images.githubusercontent.com/48553417/99179787-ccacc200-2746-11eb-88d3-7dcc5e1bd4d7.jpeg)
+
+# Author Account
 https://github.com/15Dkatz/official_joke_api
 
 # Official Joke API
